@@ -29,7 +29,7 @@ config.logger = Logdna::Ruby.new(
 )
 ```
 
-> **Pro tip:** send data via JSON with a "message" for easy scanning in LogDNA's [Log Viewer](https://docs.logdna.com/docs/how-to-use-the-dashboard). See the log's message definition [here](src/decipher/app/controllers/app_controller.rb#L60).
+> **Pro tip:** send data via JSON with a "message" for easy scanning in LogDNA's [Log Viewer](https://docs.logdna.com/docs/how-to-use-the-dashboard). See the log's message definition [here](src/decipher/app/controllers/app_controller.rb#L59).
 
 **Q.E.D.**
 
