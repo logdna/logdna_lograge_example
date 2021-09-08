@@ -1,0 +1,37 @@
+<html>
+<head>
+    <title>LogDNA / Lograge (Ruby) Decipher Example</title>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"  media="screen,projection"/>
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+
+<body>
+    <center>
+    <h1><%= @page_title %></h1>
+    <h3><%= @display_message %></h3>
+    <div class="container">
+    <div class="row">
+        <%= form_tag "/", :method=>"post",:class=>"col s12" do %>
+            <div class "input-field col s12">
+                <%= text_field_tag :cipher_key, "", :class=>"validate", :id=>"cipher_key" %>
+                <label for="cipher_key">Cipher Key</label>
+            </div>
+            <div class "input-field col s12">
+                <button class="btn waves-effect waves-light" type="submit" name="key_submit">Submit
+                    <i class="material-icons right">send</i>
+                </button>
+            </div>
+            <%= hidden_field_tag "encrypted_message", @encrypted_message %>
+        <% end %>
+    </div>
+    </div>
+    </center>
+    <!--Materialze JavaScript at end of body for optimized loading-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</body>
+</html>
