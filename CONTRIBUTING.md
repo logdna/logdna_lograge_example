@@ -42,4 +42,4 @@ Note that we use a standard [MIT](./LICENSE) license on this repo.
 ## Questions?
 
 The easiest way to get our attention is to comment on an existing/open a new
-[issue_FIXME][https://github.com/braxtonj/logdna_lograge_example/issues].
+[issue][https://github.com/braxtonj/logdna_lograge_example/issues].
