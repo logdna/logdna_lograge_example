@@ -8,7 +8,7 @@ Check out Mathias Meyer's excellent <a href="https://github.com/roidrage/lograge
 
 ## Source Code and System Requirements
 
-Check out the full code in [src/decipher](src/decipher/).
+Check out the full, final code in [src/decipher](src/decipher/).
 
 We are gonna be using a MacOS but you can do this with virtually any OS.  If you run in to trouble, feel free to reach out via an [issue](https://github.com/braxtonj/logdna_lograge_example/issues)!
 
