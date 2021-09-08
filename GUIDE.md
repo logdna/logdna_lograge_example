@@ -1,4 +1,4 @@
-# Guide: Rails, Lograge, and LogDNA Hello World
+# Guide: Rails, Lograge, and LogDNA Decipher App
 
 Brevity tends to be the move when it comes to Hello World.  So I am gonna skip explaining the app logic.  In a nutshell we are going to be setting up a simple <a href="https://rubyonrails.org/" target="_blank">Rails</a> app with <a href="https://github.com/roidrage/lograge" target="_blank">Lograge</a> that displays an encoded message on the localhost site while sending the key to decipher it to <a href="https://logdna.com" target="_blank">LogDNA</a>.  By entering in the logged code, you can decipher the message.
 
