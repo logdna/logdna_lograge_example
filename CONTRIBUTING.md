@@ -33,7 +33,7 @@ It is reproduced in our [code of conduct](./CODE_OF_CONDUCT.md) doc for ease of 
 
 ## Coding style
 
-Code style should be enforced by [rubocop][https://github.com/rubocop/rubocop]. The rule set being enforced is provided by [.rubocop.yaml](src/decipher/.rubocop.yaml).
+Code style should be enforced by [rubocop](https://github.com/rubocop/rubocop). The rule set being enforced is provided by [.rubocop.yaml](src/decipher/.rubocop.yaml).
 
 ## License
 
@@ -42,4 +42,4 @@ Note that we use a standard [MIT](./LICENSE) license on this repo.
 ## Questions?
 
 The easiest way to get our attention is to comment on an existing/open a new
-[issue][https://github.com/braxtonj/logdna_lograge_example/issues].
+[issue](https://github.com/braxtonj/logdna_lograge_example/issues).
