@@ -15,9 +15,9 @@ We are gonna be using a MacOS but you can do this with virtually any OS.  If you
 ## Step 0: Dependencies
 
 1. Verify ruby is present `ruby -v`
-  * <a href="https://www.ruby-lang.org/en/downloads/" target="_blank">Install</a> if not.
+   * <a href="https://www.ruby-lang.org/en/downloads/" target="_blank">Install</a> if not.
 2. Verify Rails is present: `rails --version`
-  * <a href="https://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project-installing-rails" target="_blank">Install</a> if not.
+   * <a href="https://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project-installing-rails" target="_blank">Install</a> if not.
 
 Other dependencies (Lograge, LogDNA) will be installed via Gemfile.
 
