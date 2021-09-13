@@ -48,7 +48,7 @@ In the end, the gist is to (assuming you got a Rails app already tooled with Log
 
 ## Contributing
 
-[Bug reports](https://github.com/braxtonj/logdna_lograge_example/issues) and [pull requests](https://github.com/braxtonj/logdna_lograge_example/pulls) are welcome on GitHub at [braxtonj/logdna_lograge_example](https://github.com/braxtonj/logdna_lograge_example).  Be sure to first check out our [contributing doc](./CONTRIBUTING.md).
+[Bug reports](https://github.com/logdna/logdna_lograge_example/issues) and [pull requests](https://github.com/logdna/logdna_lograge_example/pulls) are welcome on GitHub at [logdna/logdna_lograge_example](https://github.com/logdna/logdna_lograge_example).  Be sure to first check out our [contributing doc](./CONTRIBUTING.md).
 
 ## License
 
