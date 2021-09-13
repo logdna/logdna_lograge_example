@@ -46,6 +46,10 @@ In the end, the gist is to (assuming you got a Rails app already tooled with Log
 4. Sit back. Witness logs <a href="https://app.logdna.com" target="_blank">in LogDNA</a>.
 5. Enjoy tea.
 
+## Blog
+
+We wrote a short blog on this that you can read [here](https://www.logdna.com/blog/taming-ruby-on-rails-logging-with-lograge-and-logdna). 
+
 ## Contributing
 
 [Bug reports](https://github.com/logdna/logdna_lograge_example/issues) and [pull requests](https://github.com/logdna/logdna_lograge_example/pulls) are welcome on GitHub at [logdna/logdna_lograge_example](https://github.com/logdna/logdna_lograge_example).  Be sure to first check out our [contributing doc](./CONTRIBUTING.md).
